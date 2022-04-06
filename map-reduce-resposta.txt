@@ -1,0 +1,13 @@
+O trabalho foi implementado para responder 
+"quais são as duas palavras que mais acontecem para os seguintes autores:
+a- “Grzegorz Rozenberg”
+b- “Philip S. Yu”"
+
+
+O resultado obtido utilizando map/reduce foi:
+
+As duas palavaras que mais ocorrem para o autor Philip S. Yu são:
+[('Data', 7), ('Distributed', 6)]
+
+As duas palavaras que mais ocorrem para o autor Grzegorz Rozenberg são:
+[('Systems', 10), ('Grammars', 7)]
